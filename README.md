@@ -9,3 +9,15 @@ This project is an interactive visualization system built entirely in C++ using 
 The application includes a modular interface with a button bar for switching between simulations, a property‑sheet system for controlling parameters, and built‑in text and image viewers for reading essays and exploring reference images. All rendering, UI behavior, and memory management are implemented manually without external frameworks.
 
 Originally created for an Intro to Biology class to demonstrate fractal patterns in nature, the project has since evolved into a polished, self‑contained mathematical visualization tool.
+
+# Screenshots
+Here are some stills of the application in action. I plan to record 15-30 second demo videos to show it live.
+
+Default setting in color-mode:
+![SCREENSHOT_ONE](fractals_screenshot1.png)
+
+Modifying a parameter using my slider:
+![SCREENSHOT_TWO](fractals_screenshot2.png)
+
+Switching to another preset and paging to another slide in pic viewer:
+![SCREENSHOT_THREE](fractals_screenshot3.png)
