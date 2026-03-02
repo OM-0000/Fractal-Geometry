@@ -14,10 +14,10 @@ Originally created for an Intro to Biology class to demonstrate fractal patterns
 Here are some stills of the application in action. I plan to record 15-30 second demo videos to show it live.
 
 Default setting in color-mode:
-![SCREENSHOT_ONE](fractals_screenshot1.png)
+![SCREENSHOT_ONE](screenshots/fractals_screenshot1.png)
 
 Modifying a parameter using my slider:
-![SCREENSHOT_TWO](fractals_screenshot2.png)
+![SCREENSHOT_TWO](screenshots/fractals_screenshot2.png)
 
 Switching to another preset and paging to another slide in pic viewer:
-![SCREENSHOT_THREE](fractals_screenshot3.png)
+![SCREENSHOT_THREE](screenshots/fractals_screenshot3.png)
